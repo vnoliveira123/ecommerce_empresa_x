@@ -45,3 +45,12 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor principal: https://www.github.com/vnoliveira123
 
 [![Logo do PHP](https://th.bing.com/th/id/OIP.cBkjXEoSJNCpmr8QW5BnMAHaD_?rs=1&pid=ImgDetMain)](https://www.github.com/vnoliveira123)
+
+# Código da função soma
+
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
+
